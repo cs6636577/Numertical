@@ -1,0 +1,32 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.2",
+    "better-react-mathjax": "^2.3.0",
+    "desmos": "^1.5.4",
+    "mathjs": "^14.7.0",
+    "mongoose": "^8.19.1",
+    "mui": "^0.0.1",
+    "nerdamer": "^1.1.13",
+    "next": "15.5.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "24.5.2",
+    "@types/react": "19.1.13",
+    "daisyui": "^5.1.13",
+    "tailwindcss": "^4",
+    "typescript": "5.9.2"
+  }
+}
